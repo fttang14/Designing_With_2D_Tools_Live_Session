@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backdrop
+    uniqueID: 2512239079
+    locked: 0
+  - name: PlayableArea
+    uniqueID: 3693595537
+    locked: 0
+  - name: AllKnights
+    uniqueID: 819037157
+    locked: 0
+  - name: Cannon
+    uniqueID: 3639712673
+    locked: 0
+  - name: BulletsExplosions
+    uniqueID: 857135875
+    locked: 0
